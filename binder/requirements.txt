@@ -16,6 +16,7 @@ prompt-toolkit==3.0.5
 ptyprocess==0.6.0
 pyzmq==19.0.0
 scikit-learn==0.22.2
+seaborn==0.10.0
 terminado==0.8.3
 webencodings==0.5.1
 widgetsnbextension==3.5.1
