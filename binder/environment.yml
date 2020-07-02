@@ -25,7 +25,3 @@ dependencies:
   - pip:
     - matplotlib==3.2.1
 prefix: neurocomputing
-
-- name: repo2docker Action
-  uses: machine-learning-apps/repo2docker-action@0.2
-
